@@ -1,6 +1,6 @@
 # Project VendingMachineCLI
 
-One Paragraph of project description goes here
+CLI + Golang-Powered vending machine simulation. Includes admin and client mode, as well as mini-games.
 
 ## Getting Started
 
